@@ -1,0 +1,7 @@
+# If your project has any requirements not included in anaconda, include them here
+Installation requirements:
+!pip install matplotlib
+!pip install pandas
+!pip install beautifulsoup4
+!pip install requests
+
